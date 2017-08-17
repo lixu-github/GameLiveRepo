@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "GameLiveRepo" # 项目名称
-s.version      = "0.0.15"
+s.version      = "0.2.15"
   s.license      = { :type => "MIT", :file => "LICENSE" }      # 开源证书
   s.summary      = "私人pod代码" # 项目简介
 
